@@ -24,15 +24,15 @@ export default function NewsPage() {
             {news.map(article => (
               <Card key={article.id} className="flex flex-col h-full">
                 <CardHeader>
-                  <CardDescription className="mb-2 text-xs">{new Date(article.date).toLocaleDateString()} • {article.author}</CardDescription>
+                  <CardDescription className="mb-2 text-xs">{new Date(article.date).toLocaleDateString()} | {article.author}</CardDescription>
                   <CardTitle className="text-lg mb-1">{article.title}</CardTitle>
                 </CardHeader>
                 <CardContent className="flex-1">
-                  <p className="text-sm text-muted-foreground">{article.description}</p>
+                  <p className="text-xs text-muted-foreground">{article.description}</p>
                 </CardContent>
                 <CardFooter>
                   <Button asChild variant="outline" size="sm">
-                    <Link href={`/news/${article.id}`}>Read more</Link>
+                    <Link href={`/news/${article.id}`}>Read Article</Link>
                   </Button>
                 </CardFooter>
               </Card>

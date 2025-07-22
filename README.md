@@ -1,3 +1,9 @@
+# Terra Kaffe Hub
+
+This project is a design draft for the **Terra Kaffe Hub**. The Hub combines all Terra Kaffe  related insights into one place, providing users with a comprehensive and easy-to-use platform. It is designed to centralize dashboards, leaderboards, news, feature requests, and more, making it simple for users to access and interact with all TK resources in a unified, intuitive interface.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
