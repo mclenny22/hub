@@ -1,0 +1,902 @@
+[
+  {
+    "username": "BrightCurve23",
+    "shotsBrewed": 10831,
+    "cupsBrewed": 9000,
+    "beansGround": 12000,
+    "milkUsed": 8000,
+    "plasticSaved": 150,
+    "moneySaved": 1200
+  },
+  {
+    "username": "ValiantlyPat56",
+    "shotsBrewed": 11000,
+    "cupsBrewed": 8500,
+    "beansGround": 11000,
+    "milkUsed": 7000,
+    "plasticSaved": 120,
+    "moneySaved": 1100
+  },
+  {
+    "username": "ObedientlyArbitrate3",
+    "shotsBrewed": 8996,
+    "cupsBrewed": 9200,
+    "beansGround": 10500,
+    "milkUsed": 6500,
+    "plasticSaved": 100,
+    "moneySaved": 1000
+  },
+  {
+    "username": "GroundMaster97",
+    "shotsBrewed": 9500,
+    "cupsBrewed": 8800,
+    "beansGround": 12500,
+    "milkUsed": 7500,
+    "plasticSaved": 130,
+    "moneySaved": 1150
+  },
+  {
+    "username": "MilkyWay789",
+    "shotsBrewed": 9800,
+    "cupsBrewed": 8600,
+    "beansGround": 11500,
+    "milkUsed": 8200,
+    "plasticSaved": 140,
+    "moneySaved": 1180
+  },
+  {
+    "username": "EcoSaver321",
+    "shotsBrewed": 9200,
+    "cupsBrewed": 8400,
+    "beansGround": 10800,
+    "milkUsed": 7000,
+    "plasticSaved": 160,
+    "moneySaved": 1130
+  },
+  {
+    "username": "FrugalBarista55",
+    "shotsBrewed": 9300,
+    "cupsBrewed": 8300,
+    "beansGround": 10900,
+    "milkUsed": 7100,
+    "plasticSaved": 125,
+    "moneySaved": 1250
+  },
+  {
+    "username": "User001Grind3",
+    "shotsBrewed": 10118,
+    "cupsBrewed": 8472,
+    "beansGround": 12043,
+    "milkUsed": 8071,
+    "plasticSaved": 138,
+    "moneySaved": 1210
+  },
+  {
+    "username": "User002Brew2",
+    "shotsBrewed": 10569,
+    "cupsBrewed": 8883,
+    "beansGround": 11630,
+    "milkUsed": 7179,
+    "plasticSaved": 101,
+    "moneySaved": 1167
+  },
+  {
+    "username": "User003Brew63",
+    "shotsBrewed": 9968,
+    "cupsBrewed": 8898,
+    "beansGround": 11528,
+    "milkUsed": 7249,
+    "plasticSaved": 141,
+    "moneySaved": 1076
+  },
+  {
+    "username": "User004Pulse22",
+    "shotsBrewed": 10064,
+    "cupsBrewed": 8082,
+    "beansGround": 12107,
+    "milkUsed": 6634,
+    "plasticSaved": 118,
+    "moneySaved": 1234
+  },
+  {
+    "username": "User005Roast21",
+    "shotsBrewed": 9259,
+    "cupsBrewed": 8352,
+    "beansGround": 10099,
+    "milkUsed": 7362,
+    "plasticSaved": 119,
+    "moneySaved": 1162
+  },
+  {
+    "username": "User006Roast75",
+    "shotsBrewed": 10815,
+    "cupsBrewed": 8686,
+    "beansGround": 10532,
+    "milkUsed": 7865,
+    "plasticSaved": 102,
+    "moneySaved": 1180
+  },
+  {
+    "username": "User007Caf\u00e973",
+    "shotsBrewed": 9147,
+    "cupsBrewed": 9069,
+    "beansGround": 11358,
+    "milkUsed": 8164,
+    "plasticSaved": 143,
+    "moneySaved": 1235
+  },
+  {
+    "username": "User008Steam8",
+    "shotsBrewed": 9064,
+    "cupsBrewed": 8252,
+    "beansGround": 11033,
+    "milkUsed": 7892,
+    "plasticSaved": 107,
+    "moneySaved": 1029
+  },
+  {
+    "username": "User009Bean70",
+    "shotsBrewed": 10173,
+    "cupsBrewed": 8360,
+    "beansGround": 10219,
+    "milkUsed": 7189,
+    "plasticSaved": 120,
+    "moneySaved": 1246
+  },
+  {
+    "username": "User010Java1",
+    "shotsBrewed": 9130,
+    "cupsBrewed": 8955,
+    "beansGround": 10189,
+    "milkUsed": 7466,
+    "plasticSaved": 107,
+    "moneySaved": 1044
+  },
+  {
+    "username": "User011Bean45",
+    "shotsBrewed": 9129,
+    "cupsBrewed": 8809,
+    "beansGround": 12215,
+    "milkUsed": 6598,
+    "plasticSaved": 113,
+    "moneySaved": 1160
+  },
+  {
+    "username": "User012Pulse91",
+    "shotsBrewed": 9895,
+    "cupsBrewed": 8614,
+    "beansGround": 12441,
+    "milkUsed": 7195,
+    "plasticSaved": 134,
+    "moneySaved": 1163
+  },
+  {
+    "username": "User013Bean44",
+    "shotsBrewed": 10666,
+    "cupsBrewed": 8629,
+    "beansGround": 10593,
+    "milkUsed": 8080,
+    "plasticSaved": 144,
+    "moneySaved": 1143
+  },
+  {
+    "username": "User014Brew30",
+    "shotsBrewed": 9689,
+    "cupsBrewed": 8727,
+    "beansGround": 10093,
+    "milkUsed": 7557,
+    "plasticSaved": 160,
+    "moneySaved": 1070
+  },
+  {
+    "username": "User015Grind87",
+    "shotsBrewed": 9136,
+    "cupsBrewed": 8867,
+    "beansGround": 11092,
+    "milkUsed": 7427,
+    "plasticSaved": 137,
+    "moneySaved": 1011
+  },
+  {
+    "username": "User016Bean53",
+    "shotsBrewed": 10672,
+    "cupsBrewed": 9131,
+    "beansGround": 12343,
+    "milkUsed": 7631,
+    "plasticSaved": 145,
+    "moneySaved": 1129
+  },
+  {
+    "username": "User017Java60",
+    "shotsBrewed": 10774,
+    "cupsBrewed": 8859,
+    "beansGround": 11467,
+    "milkUsed": 6663,
+    "plasticSaved": 123,
+    "moneySaved": 1128
+  },
+  {
+    "username": "User018Grind6",
+    "shotsBrewed": 10775,
+    "cupsBrewed": 8064,
+    "beansGround": 12301,
+    "milkUsed": 7709,
+    "plasticSaved": 145,
+    "moneySaved": 1196
+  },
+  {
+    "username": "User019Roast5",
+    "shotsBrewed": 9340,
+    "cupsBrewed": 8321,
+    "beansGround": 12379,
+    "milkUsed": 7166,
+    "plasticSaved": 115,
+    "moneySaved": 1200
+  },
+  {
+    "username": "User020Roast75",
+    "shotsBrewed": 10253,
+    "cupsBrewed": 8973,
+    "beansGround": 10915,
+    "milkUsed": 7138,
+    "plasticSaved": 111,
+    "moneySaved": 1103
+  },
+  {
+    "username": "User021Grind54",
+    "shotsBrewed": 10935,
+    "cupsBrewed": 8862,
+    "beansGround": 10703,
+    "milkUsed": 7931,
+    "plasticSaved": 132,
+    "moneySaved": 1024
+  },
+  {
+    "username": "User022Aroma16",
+    "shotsBrewed": 10180,
+    "cupsBrewed": 9159,
+    "beansGround": 10472,
+    "milkUsed": 7805,
+    "plasticSaved": 152,
+    "moneySaved": 1010
+  },
+  {
+    "username": "User023Bean23",
+    "shotsBrewed": 10633,
+    "cupsBrewed": 8073,
+    "beansGround": 10982,
+    "milkUsed": 8192,
+    "plasticSaved": 143,
+    "moneySaved": 1018
+  },
+  {
+    "username": "User024Roast15",
+    "shotsBrewed": 9586,
+    "cupsBrewed": 8204,
+    "beansGround": 10950,
+    "milkUsed": 7267,
+    "plasticSaved": 160,
+    "moneySaved": 1035
+  },
+  {
+    "username": "User025Roast55",
+    "shotsBrewed": 9785,
+    "cupsBrewed": 8886,
+    "beansGround": 10896,
+    "milkUsed": 7397,
+    "plasticSaved": 100,
+    "moneySaved": 1113
+  },
+  {
+    "username": "User026Java8",
+    "shotsBrewed": 10627,
+    "cupsBrewed": 8343,
+    "beansGround": 11533,
+    "milkUsed": 7197,
+    "plasticSaved": 129,
+    "moneySaved": 1113
+  },
+  {
+    "username": "User027Java9",
+    "shotsBrewed": 10746,
+    "cupsBrewed": 8482,
+    "beansGround": 10497,
+    "milkUsed": 7615,
+    "plasticSaved": 104,
+    "moneySaved": 1159
+  },
+  {
+    "username": "User028Roast28",
+    "shotsBrewed": 10709,
+    "cupsBrewed": 9143,
+    "beansGround": 11350,
+    "milkUsed": 7277,
+    "plasticSaved": 132,
+    "moneySaved": 1137
+  },
+  {
+    "username": "User029Java54",
+    "shotsBrewed": 9492,
+    "cupsBrewed": 8357,
+    "beansGround": 11771,
+    "milkUsed": 7576,
+    "plasticSaved": 158,
+    "moneySaved": 1210
+  },
+  {
+    "username": "User030Aroma95",
+    "shotsBrewed": 10850,
+    "cupsBrewed": 8659,
+    "beansGround": 11310,
+    "milkUsed": 7044,
+    "plasticSaved": 131,
+    "moneySaved": 1069
+  },
+  {
+    "username": "User031Bean31",
+    "shotsBrewed": 9830,
+    "cupsBrewed": 8608,
+    "beansGround": 10233,
+    "milkUsed": 7620,
+    "plasticSaved": 151,
+    "moneySaved": 1012
+  },
+  {
+    "username": "User032Caf\u00e996",
+    "shotsBrewed": 9893,
+    "cupsBrewed": 8975,
+    "beansGround": 10249,
+    "milkUsed": 7249,
+    "plasticSaved": 107,
+    "moneySaved": 1090
+  },
+  {
+    "username": "User033Bean24",
+    "shotsBrewed": 10745,
+    "cupsBrewed": 8710,
+    "beansGround": 12113,
+    "milkUsed": 7001,
+    "plasticSaved": 114,
+    "moneySaved": 1132
+  },
+  {
+    "username": "User034Grind53",
+    "shotsBrewed": 10195,
+    "cupsBrewed": 8281,
+    "beansGround": 10636,
+    "milkUsed": 8148,
+    "plasticSaved": 144,
+    "moneySaved": 1189
+  },
+  {
+    "username": "User035Caf\u00e96",
+    "shotsBrewed": 9969,
+    "cupsBrewed": 8874,
+    "beansGround": 11282,
+    "milkUsed": 7816,
+    "plasticSaved": 123,
+    "moneySaved": 1115
+  },
+  {
+    "username": "User036Caf\u00e98",
+    "shotsBrewed": 9965,
+    "cupsBrewed": 9010,
+    "beansGround": 11566,
+    "milkUsed": 7071,
+    "plasticSaved": 152,
+    "moneySaved": 1223
+  },
+  {
+    "username": "User037Grind9",
+    "shotsBrewed": 10380,
+    "cupsBrewed": 8330,
+    "beansGround": 11259,
+    "milkUsed": 6629,
+    "plasticSaved": 147,
+    "moneySaved": 1011
+  },
+  {
+    "username": "User038Roast74",
+    "shotsBrewed": 10170,
+    "cupsBrewed": 8003,
+    "beansGround": 12481,
+    "milkUsed": 7544,
+    "plasticSaved": 137,
+    "moneySaved": 1111
+  },
+  {
+    "username": "User039Caf\u00e920",
+    "shotsBrewed": 9530,
+    "cupsBrewed": 9112,
+    "beansGround": 11983,
+    "milkUsed": 7788,
+    "plasticSaved": 106,
+    "moneySaved": 1023
+  },
+  {
+    "username": "User040Grind22",
+    "shotsBrewed": 10563,
+    "cupsBrewed": 8735,
+    "beansGround": 10474,
+    "milkUsed": 7496,
+    "plasticSaved": 154,
+    "moneySaved": 1244
+  },
+  {
+    "username": "User041Steam13",
+    "shotsBrewed": 9757,
+    "cupsBrewed": 8147,
+    "beansGround": 11540,
+    "milkUsed": 7687,
+    "plasticSaved": 111,
+    "moneySaved": 1101
+  },
+  {
+    "username": "User042Caf\u00e976",
+    "shotsBrewed": 9053,
+    "cupsBrewed": 8798,
+    "beansGround": 10567,
+    "milkUsed": 7905,
+    "plasticSaved": 111,
+    "moneySaved": 1143
+  },
+  {
+    "username": "User043Roast84",
+    "shotsBrewed": 10245,
+    "cupsBrewed": 8405,
+    "beansGround": 10166,
+    "milkUsed": 6738,
+    "plasticSaved": 123,
+    "moneySaved": 1235
+  },
+  {
+    "username": "User044Aroma66",
+    "shotsBrewed": 10023,
+    "cupsBrewed": 8786,
+    "beansGround": 10730,
+    "milkUsed": 6679,
+    "plasticSaved": 145,
+    "moneySaved": 1138
+  },
+  {
+    "username": "User045Bean42",
+    "shotsBrewed": 9726,
+    "cupsBrewed": 8724,
+    "beansGround": 11215,
+    "milkUsed": 7491,
+    "plasticSaved": 127,
+    "moneySaved": 1164
+  },
+  {
+    "username": "User046Java30",
+    "shotsBrewed": 10313,
+    "cupsBrewed": 8320,
+    "beansGround": 11864,
+    "milkUsed": 7338,
+    "plasticSaved": 115,
+    "moneySaved": 1006
+  },
+  {
+    "username": "User047Steam46",
+    "shotsBrewed": 10791,
+    "cupsBrewed": 9056,
+    "beansGround": 10025,
+    "milkUsed": 7336,
+    "plasticSaved": 113,
+    "moneySaved": 1141
+  },
+  {
+    "username": "User048Roast48",
+    "shotsBrewed": 10910,
+    "cupsBrewed": 8055,
+    "beansGround": 12290,
+    "milkUsed": 7625,
+    "plasticSaved": 152,
+    "moneySaved": 1246
+  },
+  {
+    "username": "User049Bean95",
+    "shotsBrewed": 10308,
+    "cupsBrewed": 8280,
+    "beansGround": 10612,
+    "milkUsed": 7825,
+    "plasticSaved": 105,
+    "moneySaved": 1160
+  },
+  {
+    "username": "User050Brew72",
+    "shotsBrewed": 10382,
+    "cupsBrewed": 8631,
+    "beansGround": 12310,
+    "milkUsed": 7868,
+    "plasticSaved": 144,
+    "moneySaved": 1184
+  },
+  {
+    "username": "User051Brew11",
+    "shotsBrewed": 10271,
+    "cupsBrewed": 8628,
+    "beansGround": 11705,
+    "milkUsed": 7238,
+    "plasticSaved": 157,
+    "moneySaved": 1066
+  },
+  {
+    "username": "User052Caf\u00e933",
+    "shotsBrewed": 9914,
+    "cupsBrewed": 8352,
+    "beansGround": 12127,
+    "milkUsed": 7518,
+    "plasticSaved": 139,
+    "moneySaved": 1123
+  },
+  {
+    "username": "User053Java63",
+    "shotsBrewed": 10910,
+    "cupsBrewed": 8248,
+    "beansGround": 12348,
+    "milkUsed": 7760,
+    "plasticSaved": 121,
+    "moneySaved": 1102
+  },
+  {
+    "username": "User054Aroma33",
+    "shotsBrewed": 10660,
+    "cupsBrewed": 8716,
+    "beansGround": 12372,
+    "milkUsed": 7286,
+    "plasticSaved": 105,
+    "moneySaved": 1034
+  },
+  {
+    "username": "User055Pulse61",
+    "shotsBrewed": 10611,
+    "cupsBrewed": 8612,
+    "beansGround": 11768,
+    "milkUsed": 6513,
+    "plasticSaved": 160,
+    "moneySaved": 1049
+  },
+  {
+    "username": "User056Pulse2",
+    "shotsBrewed": 9156,
+    "cupsBrewed": 8834,
+    "beansGround": 11744,
+    "milkUsed": 7379,
+    "plasticSaved": 125,
+    "moneySaved": 1183
+  },
+  {
+    "username": "User057Bean3",
+    "shotsBrewed": 9387,
+    "cupsBrewed": 8385,
+    "beansGround": 11300,
+    "milkUsed": 8004,
+    "plasticSaved": 154,
+    "moneySaved": 1061
+  },
+  {
+    "username": "User058Pulse5",
+    "shotsBrewed": 9819,
+    "cupsBrewed": 8737,
+    "beansGround": 11963,
+    "milkUsed": 6877,
+    "plasticSaved": 107,
+    "moneySaved": 1184
+  },
+  {
+    "username": "User059Steam53",
+    "shotsBrewed": 10271,
+    "cupsBrewed": 8727,
+    "beansGround": 12217,
+    "milkUsed": 6956,
+    "plasticSaved": 108,
+    "moneySaved": 1048
+  },
+  {
+    "username": "User060Bean16",
+    "shotsBrewed": 10708,
+    "cupsBrewed": 8952,
+    "beansGround": 10157,
+    "milkUsed": 7677,
+    "plasticSaved": 153,
+    "moneySaved": 1113
+  },
+  {
+    "username": "User061Brew39",
+    "shotsBrewed": 9359,
+    "cupsBrewed": 8583,
+    "beansGround": 11921,
+    "milkUsed": 7459,
+    "plasticSaved": 110,
+    "moneySaved": 1157
+  },
+  {
+    "username": "User062Pulse20",
+    "shotsBrewed": 9395,
+    "cupsBrewed": 8214,
+    "beansGround": 10401,
+    "milkUsed": 6701,
+    "plasticSaved": 108,
+    "moneySaved": 1221
+  },
+  {
+    "username": "User063Aroma1",
+    "shotsBrewed": 10496,
+    "cupsBrewed": 9176,
+    "beansGround": 11595,
+    "milkUsed": 7887,
+    "plasticSaved": 160,
+    "moneySaved": 1143
+  },
+  {
+    "username": "User064Pulse27",
+    "shotsBrewed": 9367,
+    "cupsBrewed": 8036,
+    "beansGround": 10625,
+    "milkUsed": 7387,
+    "plasticSaved": 101,
+    "moneySaved": 1144
+  },
+  {
+    "username": "User065Roast31",
+    "shotsBrewed": 10766,
+    "cupsBrewed": 8136,
+    "beansGround": 10025,
+    "milkUsed": 6968,
+    "plasticSaved": 151,
+    "moneySaved": 1095
+  },
+  {
+    "username": "User066Bean63",
+    "shotsBrewed": 9118,
+    "cupsBrewed": 8873,
+    "beansGround": 11306,
+    "milkUsed": 7810,
+    "plasticSaved": 134,
+    "moneySaved": 1045
+  },
+  {
+    "username": "User067Brew79",
+    "shotsBrewed": 9103,
+    "cupsBrewed": 8127,
+    "beansGround": 10109,
+    "milkUsed": 6706,
+    "plasticSaved": 153,
+    "moneySaved": 1102
+  },
+  {
+    "username": "User068Aroma11",
+    "shotsBrewed": 9930,
+    "cupsBrewed": 9161,
+    "beansGround": 11389,
+    "milkUsed": 7622,
+    "plasticSaved": 108,
+    "moneySaved": 1090
+  },
+  {
+    "username": "User069Roast45",
+    "shotsBrewed": 10561,
+    "cupsBrewed": 8487,
+    "beansGround": 11320,
+    "milkUsed": 7802,
+    "plasticSaved": 146,
+    "moneySaved": 1039
+  },
+  {
+    "username": "User070Bean80",
+    "shotsBrewed": 9426,
+    "cupsBrewed": 8070,
+    "beansGround": 10941,
+    "milkUsed": 7060,
+    "plasticSaved": 156,
+    "moneySaved": 1043
+  },
+  {
+    "username": "User071Bean68",
+    "shotsBrewed": 9000,
+    "cupsBrewed": 8310,
+    "beansGround": 10019,
+    "milkUsed": 7131,
+    "plasticSaved": 142,
+    "moneySaved": 1024
+  },
+  {
+    "username": "User072Roast92",
+    "shotsBrewed": 9428,
+    "cupsBrewed": 8362,
+    "beansGround": 12312,
+    "milkUsed": 7619,
+    "plasticSaved": 139,
+    "moneySaved": 1009
+  },
+  {
+    "username": "User073Bean11",
+    "shotsBrewed": 10892,
+    "cupsBrewed": 8702,
+    "beansGround": 10821,
+    "milkUsed": 7860,
+    "plasticSaved": 160,
+    "moneySaved": 1136
+  },
+  {
+    "username": "User074Java47",
+    "shotsBrewed": 10396,
+    "cupsBrewed": 8294,
+    "beansGround": 10119,
+    "milkUsed": 6913,
+    "plasticSaved": 101,
+    "moneySaved": 1096
+  },
+  {
+    "username": "User075Steam10",
+    "shotsBrewed": 10802,
+    "cupsBrewed": 8822,
+    "beansGround": 10814,
+    "milkUsed": 7398,
+    "plasticSaved": 141,
+    "moneySaved": 1109
+  },
+  {
+    "username": "User076Bean82",
+    "shotsBrewed": 9189,
+    "cupsBrewed": 8450,
+    "beansGround": 10247,
+    "milkUsed": 8041,
+    "plasticSaved": 143,
+    "moneySaved": 1071
+  },
+  {
+    "username": "User077Steam1",
+    "shotsBrewed": 10313,
+    "cupsBrewed": 9179,
+    "beansGround": 12367,
+    "milkUsed": 8051,
+    "plasticSaved": 129,
+    "moneySaved": 1051
+  },
+  {
+    "username": "User078Bean4",
+    "shotsBrewed": 10313,
+    "cupsBrewed": 8592,
+    "beansGround": 12199,
+    "milkUsed": 6869,
+    "plasticSaved": 132,
+    "moneySaved": 1214
+  },
+  {
+    "username": "User079Pulse12",
+    "shotsBrewed": 10169,
+    "cupsBrewed": 9019,
+    "beansGround": 10178,
+    "milkUsed": 7962,
+    "plasticSaved": 117,
+    "moneySaved": 1094
+  },
+  {
+    "username": "User080Caf\u00e957",
+    "shotsBrewed": 9535,
+    "cupsBrewed": 8582,
+    "beansGround": 11539,
+    "milkUsed": 7740,
+    "plasticSaved": 127,
+    "moneySaved": 1228
+  },
+  {
+    "username": "User081Bean55",
+    "shotsBrewed": 10780,
+    "cupsBrewed": 8471,
+    "beansGround": 10364,
+    "milkUsed": 6985,
+    "plasticSaved": 115,
+    "moneySaved": 1230
+  },
+  {
+    "username": "User082Pulse98",
+    "shotsBrewed": 10398,
+    "cupsBrewed": 8745,
+    "beansGround": 11303,
+    "milkUsed": 7621,
+    "plasticSaved": 156,
+    "moneySaved": 1215
+  },
+  {
+    "username": "User083Aroma17",
+    "shotsBrewed": 9950,
+    "cupsBrewed": 8510,
+    "beansGround": 10029,
+    "milkUsed": 8082,
+    "plasticSaved": 141,
+    "moneySaved": 1233
+  },
+  {
+    "username": "User084Caf\u00e910",
+    "shotsBrewed": 9131,
+    "cupsBrewed": 8394,
+    "beansGround": 11342,
+    "milkUsed": 7246,
+    "plasticSaved": 110,
+    "moneySaved": 1175
+  },
+  {
+    "username": "User085Java29",
+    "shotsBrewed": 9711,
+    "cupsBrewed": 8120,
+    "beansGround": 11835,
+    "milkUsed": 6740,
+    "plasticSaved": 104,
+    "moneySaved": 1044
+  },
+  {
+    "username": "User086Java29",
+    "shotsBrewed": 10176,
+    "cupsBrewed": 9103,
+    "beansGround": 11925,
+    "milkUsed": 7636,
+    "plasticSaved": 160,
+    "moneySaved": 1012
+  },
+  {
+    "username": "User087Pulse9",
+    "shotsBrewed": 9394,
+    "cupsBrewed": 8796,
+    "beansGround": 12234,
+    "milkUsed": 7303,
+    "plasticSaved": 148,
+    "moneySaved": 1020
+  },
+  {
+    "username": "User088Caf\u00e953",
+    "shotsBrewed": 10286,
+    "cupsBrewed": 8590,
+    "beansGround": 11060,
+    "milkUsed": 8017,
+    "plasticSaved": 138,
+    "moneySaved": 1214
+  },
+  {
+    "username": "User089Bean11",
+    "shotsBrewed": 10815,
+    "cupsBrewed": 9067,
+    "beansGround": 11203,
+    "milkUsed": 7251,
+    "plasticSaved": 105,
+    "moneySaved": 1211
+  },
+  {
+    "username": "User090Brew7",
+    "shotsBrewed": 10152,
+    "cupsBrewed": 8579,
+    "beansGround": 10631,
+    "milkUsed": 6585,
+    "plasticSaved": 152,
+    "moneySaved": 1063
+  },
+  {
+    "username": "User091Pulse35",
+    "shotsBrewed": 9423,
+    "cupsBrewed": 8408,
+    "beansGround": 10983,
+    "milkUsed": 7389,
+    "plasticSaved": 134,
+    "moneySaved": 1248
+  },
+  {
+    "username": "User092Bean77",
+    "shotsBrewed": 10588,
+    "cupsBrewed": 8457,
+    "beansGround": 10032,
+    "milkUsed": 7655,
+    "plasticSaved": 146,
+    "moneySaved": 1030
+  },
+  {
+    "username": "User093Caf\u00e99",
+    "shotsBrewed": 9770,
+    "cupsBrewed": 8513,
+    "beansGround": 10033,
+    "milkUsed": 7338,
+    "plasticSaved": 130,
+    "moneySaved": 1064
+  }
+]

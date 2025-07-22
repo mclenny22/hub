@@ -1,0 +1,103 @@
+[
+  {
+    "id": "article-1",
+    "title": "Terra Kaffe Launches TK-03: The Next Generation Machine",
+    "date": "2024-07-01",
+    "author": "Terra Kaffe Team",
+    "description": "The new TK-03 brings even more automation and customization to your daily coffee ritual. Discover the features and improvements in our latest release.",
+    "heroImage": "/news/article-1-hero.jpg",
+    "content": [
+      { "type": "text", "value": "The new TK-03 brings even more automation and customization to your daily coffee ritual. Discover the features and improvements in our latest release. This article will walk you through everything you need to know about the TK-03 and how it can transform your mornings." },
+      { "type": "image", "src": "/news/article-1-img1.jpg", "alt": "Feature 1" },
+      { "type": "text", "value": "With a sleek new design and advanced brewing technology, the TK-03 is built for both convenience and quality. The intuitive touchscreen interface makes it easy to select your favorite drinks, adjust strength, and schedule brews ahead of time." },
+      { "type": "image", "src": "/news/article-1-img2.jpg", "alt": "Feature 2" },
+      { "type": "text", "value": "Sustainability is at the heart of the TK-03. With energy-saving modes and recyclable materials, you can enjoy your coffee with peace of mind. Join the Terra Kaffe community and experience the future of home brewing today!" },
+      { "type": "image", "src": "/news/article-1-img3.jpg", "alt": "Feature 3" }
+    ]
+  },
+  {
+    "id": "article-2",
+    "title": "Sustainability Milestone: 1 Million Plastic Bottles Saved",
+    "date": "2024-06-20",
+    "author": "Terra Kaffe Team",
+    "description": "Thanks to our community, we've collectively saved over 1 million plastic bottles by brewing at home. Learn more about our sustainability efforts.",
+    "heroImage": "/news/article-2-hero.jpg",
+    "content": [
+      { "type": "text", "value": "Thanks to our community, we've collectively saved over 1 million plastic bottles by brewing at home. Learn more about our sustainability efforts and how you can contribute to a greener future." },
+      { "type": "image", "src": "/news/article-2-img1.jpg", "alt": "Milestone" },
+      { "type": "text", "value": "Every cup brewed at home means one less plastic bottle in the landfill. Our mission is to make coffee not only delicious but also sustainable for the planet." },
+      { "type": "image", "src": "/news/article-2-img2.jpg", "alt": "Community" },
+      { "type": "text", "value": "Join us as we continue to innovate and inspire positive change. Together, we can make a difference—one cup at a time!" }
+    ]
+  },
+  {
+    "id": "article-3",
+    "title": "App Update: New Drink Profiles and Scheduling",
+    "date": "2024-06-10",
+    "author": "Terra Kaffe Team",
+    "description": "The latest app update introduces new drink profiles and the ability to schedule your brews. See what's new and how to get started.",
+    "heroImage": "/news/article-3-hero.jpg",
+    "content": [
+      { "type": "text", "value": "The latest app update introduces new drink profiles and the ability to schedule your brews. See what's new and how to get started with these exciting features." },
+      { "type": "image", "src": "/news/article-3-img1.jpg", "alt": "App Update" },
+      { "type": "text", "value": "Personalize your coffee experience with custom drink profiles. Save your favorite recipes and access them with a single tap." },
+      { "type": "image", "src": "/news/article-3-img2.jpg", "alt": "Scheduling" },
+      { "type": "text", "value": "Scheduling lets you wake up to freshly brewed coffee every morning. Set your preferred time and let your machine do the rest!" }
+    ]
+  },
+  {
+    "id": "article-4",
+    "title": "Meet the Top Brewer: Interview with BrightCurve23",
+    "date": "2024-05-28",
+    "author": "Terra Kaffe Team",
+    "description": "We sat down with our leaderboard's top brewer to talk about their coffee journey, favorite recipes, and tips for the community.",
+    "heroImage": "/news/article-4-hero.jpg",
+    "content": [
+      { "type": "text", "value": "We sat down with our leaderboard's top brewer to talk about their coffee journey, favorite recipes, and tips for the community. Get inspired by their story!" },
+      { "type": "image", "src": "/news/article-4-img1.jpg", "alt": "Interview" },
+      { "type": "text", "value": "BrightCurve23 shares their favorite brewing techniques and how they stay at the top of the leaderboard. Learn how you can improve your own coffee game." },
+      { "type": "image", "src": "/news/article-4-img2.jpg", "alt": "Tips" },
+      { "type": "text", "value": "Join the community and connect with other coffee enthusiasts. Share your tips, tricks, and favorite recipes!" }
+    ]
+  },
+  {
+    "id": "article-5",
+    "title": "How to Clean and Maintain Your TK-02",
+    "date": "2024-05-15",
+    "author": "Terra Kaffe Team",
+    "description": "Keep your machine running smoothly with our step-by-step cleaning and maintenance guide. Extend the life of your Terra Kaffe!",
+    "heroImage": "/news/article-5-hero.jpg",
+    "content": [
+      { "type": "text", "value": "Keep your machine running smoothly with our step-by-step cleaning and maintenance guide. Extend the life of your Terra Kaffe and enjoy delicious coffee every day!" },
+      { "type": "image", "src": "/news/article-5-img1.jpg", "alt": "Cleaning" },
+      { "type": "text", "value": "Regular cleaning ensures the best taste and performance. Follow our easy instructions to keep your TK-02 in top shape." },
+      { "type": "image", "src": "/news/article-5-img2.jpg", "alt": "Maintenance" },
+      { "type": "text", "value": "Don't forget to descale and replace filters as needed. Your machine will thank you with every cup!" }
+    ]
+  },
+  {
+    "id": "article-6",
+    "title": "Brewing Intelligence: Building an Alexa Skill for a Connected Coffee Machine",
+    "date": "2024-07-10",
+    "author": "Terra Kaffe Team",
+    "description": "A deep dive into the architecture, challenges, and solutions behind an Alexa Skill that transforms your coffee machine into an intelligent, voice-activated barista.",
+    "heroImage": "/news/article-6-hero.jpg",
+    "content": [
+      { "type": "text", "value": "Smart appliances are no longer novelties—they’re becoming companions. In this post, we'll deep-dive into the architecture, challenges, and solutions behind an Alexa Skill that transforms your coffee machine into an intelligent, voice-activated barista. We'll cover everything from VUI design and device integration to dynamic purchasing and personalized voice input, all with the scale and depth expected of a robust enterprise-grade service. The aim? To show how intelligent design and thoughtful experiences in connected hardware can transcend “gimmick” and serve to enhance aspects of everyday life." },
+      { "type": "image", "src": "/news/article-6-img1.jpg", "alt": "Intent Schema Flowchart" },
+      { "type": "section", "value": "Voice User Interface Design" },
+      { "type": "text", "value": "Each category is modeled as discrete Intent Schemas with slot types for temperature, roast strength, bean origin, and user preferences. Example:" },
+      { "type": "code", "language": "json", "value": "{\n  \"intents\": [\n    {\n      \"name\": \"StartBrewIntent\",\n      \"slots\": [\n        { \"name\": \"brewType\", \"type\": \"COFFEE_TYPE\" },\n        { \"name\": \"userProfile\", \"type\": \"AMAZON.FirstName\" }\n      ]\n    }\n  ]\n}" },
+      { "type": "text", "value": "Multi-Turn Dialogs\nComplex brews often require clarification: \"Alexa, make Barbara’s drip.\" → \"Do you mean Barbara’s regular medium roast drip or her seasonal decaf?\"\nWe use Alexa’s dialog management to elicit missing slots and confirm inputs. Context preservation across turns is managed via dialogState and short-term memory mapping stored in DynamoDB or session attributes." },
+      { "type": "section", "value": "Session Management" },
+      { "type": "text", "value": "We model sessions using a hybrid strategy:\n- Transient Context: Lives in sessionAttributes during runtime.\n- Persistent Profile Storage: Lives in DynamoDB or S3. User profiles include brew preferences, history, and thresholds for bean levels.\nTo avoid losing personalization between sessions, we use Alexa’s userId as a unique key to fetch user data in pre-launch of the session via RequestInterceptor." },
+      { "type": "code", "language": "js", "value": "const StartBrewHandler = {\n  canHandle(handlerInput) { /* logic */ },\n  handle(handlerInput) {\n    const userProfile = getUserProfile(handlerInput);\n    const brewConfig = userProfile.getPreferredBrew(\"Barbara\");\n    return BrewAPI.initiate(brewConfig);\n  }\n};" },
+      { "type": "text", "value": "Handling Complex Coffee Names with Levenshtein Scoring\nNames like 'macchiato', 'cappuccino', or 'Barbara’s drip' introduce pronunciation and spelling variability. We implement Levenshtein distance scoring inside slot validation logic to:\n- Match user utterances to closest known profile or brew recipe.\n- Mitigate spelling/recognition errors with fuzzy matching." },
+      { "type": "code", "language": "js", "value": "function levenshtein(a, b) {\n  const matrix = [];\n  for (let i = 0; i <= b.length; i++) { matrix[i] = [i]; }\n  for (let j = 0; j <= a.length; j++) { matrix[0][j] = j; }\n  for (let i = 1; i <= b.length; i++) {\n    for (let j = 1; j <= a.length; j++) {\n      const cost = b[i - 1] === a[j - 1] ? 0 : 1;\n      matrix[i][j] = Math.min(\n        matrix[i - 1][j] + 1,\n        matrix[i][j - 1] + 1,\n        matrix[i - 1][j - 1] + cost\n      );\n    }\n  }\n  return matrix[b.length][a.length];\n}\n// Usage: Match closest coffee name\nconst input = \"capachino\";\nconst coffeeOptions = [\"cappuccino\", \"latte\", \"drip\", \"macchiato\"];\nconst bestMatch = coffeeOptions.reduce((best, name) => {\n  const score = levenshtein(input.toLowerCase(), name.toLowerCase());\n  return score < best.score ? { name, score } : best;\n}, { name: null, score: Infinity });\nconsole.log(`Best match for \"${input}\": ${bestMatch.name} (score: ${bestMatch.score})`);" },
+      { "type": "image", "src": "/news/article-6-img2.jpg", "alt": "ML Model Pipeline" },
+      { "type": "text", "value": "Security and Privacy Considerations\n- All user preferences are encrypted at rest (AES-256 on S3/DynamoDB).\n- Skill uses OAuth with token scopes restricted to brew control and Amazon Pay.\n- Session data auto-expired after inactivity.\n- We follow least privilege principles with granular roles." },
+      { "type": "image", "src": "/news/article-6-img3.jpg", "alt": "API Architecture" },
+      { "type": "text", "value": "Integrating Amazon Shopping: Auto-Replenish Beans\nAmazon’s Buy Now with Alexa API allows direct product purchases through voice. For instance, when bean levels fall below threshold (e.g., via IoT telemetry from the machine), the skill triggers a purchase suggestion: 'Your Classico Presto Blend is running low. Would you like to reorder?'" }
+    ]
+  }
+] 
