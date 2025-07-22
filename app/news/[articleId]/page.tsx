@@ -29,30 +29,33 @@ export default function ArticlePage() {
             <Image src={article.heroImage || "/news/placeholder.jpg"} alt={article.title || "Article Hero"} width={900} height={350} className="w-full h-[350px] max-w-full object-cover" />
           </Card>
           <div className="flex flex-col items-center w-full">
-            <div className="prose prose-lg text-left w-full max-w-[600px]">
-              <h1 className="font-bold text-3xl mb-4 text-center">{article.title}</h1>
-              <div className="mb-4 text-xs text-muted-foreground text-center">{new Date(article.date).toLocaleDateString()} • {article.author}</div>
+            <div className="prose prose-lg text-left w-full max-w-[800px]">
+              <div className="max-w-[600px] mx-auto">
+                <h1 className="font-bold text-3xl mb-4 text-center">{article.title}</h1>
+                <div className="mb-4 text-xs text-muted-foreground text-center">{new Date(article.date).toLocaleDateString()} • {article.author}</div>
+              </div>
               {article.content.map((block, idx) => {
                 if (block.type === "section") {
-                  return <h2 key={idx} className="text-xl font-semibold mt-8 mb-2 text-left">{block.value}</h2>;
+                  return <div key={idx} className="max-w-[600px] mx-auto"><h2 className="text-xl font-semibold mt-8 mb-2 text-left">{block.value}</h2></div>;
                 } else if (block.type === "text") {
-                  return <p className="mb-6" key={idx}>{block.value}</p>;
+                  return <div key={idx} className="max-w-[600px] mx-auto"><p className="mb-6">{block.value}</p></div>;
                 } else if (block.type === "code") {
                   return (
-                    <pre key={idx} className="mb-6 rounded-lg bg-zinc-900 text-white text-left overflow-x-auto p-4 text-sm">
+                    <pre key={idx} className="mb-6 rounded-lg bg-zinc-900 text-white text-left overflow-x-auto p-4 text-sm w-full max-w-[800px] mx-auto">
                       <code className={`language-${block.language || "js"}`}>{block.value}</code>
                     </pre>
                   );
                 } else {
                   return (
-                    <Image
-                      key={idx}
-                      src={block.src || "/news/placeholder.jpg"}
-                      alt={block.alt || ""}
-                      width={800}
-                      height={400}
-                      className="w-full rounded-lg my-8 object-cover"
-                    />
+                    <div key={idx} className="w-full max-w-[800px] mx-auto">
+                      <Image
+                        src={block.src || "/news/placeholder.jpg"}
+                        alt={block.alt || ""}
+                        width={800}
+                        height={400}
+                        className="w-full rounded-lg my-8 object-cover"
+                      />
+                    </div>
                   );
                 }
               })}
