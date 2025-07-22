@@ -12,6 +12,16 @@ import { useIsMobile } from "@/hooks/use-mobile"
 import { IconSearch } from "@tabler/icons-react"
 import data from "./data.json"
 
+type LeaderboardRow = {
+  username: string;
+  shotsBrewed: number;
+  cupsBrewed: number;
+  beansGround: number;
+  milkUsed: number;
+  plasticSaved: number;
+  moneySaved: number;
+};
+
 const categories = [
   { value: "shotsBrewed", label: "Shots Brewed" },
   { value: "cupsBrewed", label: "Cups Brewed" },
@@ -28,18 +38,18 @@ export default function LeaderboardsPage() {
 
   // Filter and sort data
   const filtered = data
-    .filter(row => row.username.toLowerCase().includes(search.toLowerCase()))
-    .sort((a, b) => (b[category as keyof typeof b] as number) - (a[category as keyof typeof a] as number))
+    .filter((row: LeaderboardRow) => row.username.toLowerCase().includes(search.toLowerCase()))
+    .sort((a: LeaderboardRow, b: LeaderboardRow) => (b[category as keyof LeaderboardRow] as number) - (a[category as keyof LeaderboardRow] as number))
     .map((row, idx) => ({ ...row, rank: idx + 1 }))
 
   const categoryLabel = categories.find(c => c.value === category)?.label || "Value"
 
-  function renderValue(row: any, category: string) {
-    if (category === "moneySaved") return `$${(row[category] as number).toLocaleString()}`
-    if (category === "plasticSaved") return `${row[category]} Bottles`
-    if (category === "milkUsed") return `${(row[category] as number).toLocaleString()} ml`
-    if (category === "beansGround") return `${(row[category] as number).toLocaleString()} g`
-    return (row[category] as number).toLocaleString()
+  function renderValue(row: LeaderboardRow, category: string) {
+    if (category === "moneySaved") return `$${(row[category as keyof LeaderboardRow] as number).toLocaleString()}`
+    if (category === "plasticSaved") return `${row[category as keyof LeaderboardRow]} Bottles`
+    if (category === "milkUsed") return `${(row[category as keyof LeaderboardRow] as number).toLocaleString()} ml`
+    if (category === "beansGround") return `${(row[category as keyof LeaderboardRow] as number).toLocaleString()} g`
+    return (row[category as keyof LeaderboardRow] as number).toLocaleString()
   }
 
   return (
