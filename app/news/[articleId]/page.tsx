@@ -25,14 +25,14 @@ export default function ArticlePage() {
       <SidebarInset>
         <SiteHeader title="News" />
         <div className="flex flex-1 flex-col items-center justify-start p-8">
-          <Card className="w-full max-w-[900px] mb-8 overflow-hidden p-0">
-            <Image src={article.heroImage || "/news/placeholder.jpg"} alt={article.title || "Article Hero"} width={900} height={350} className="w-full h-[350px] max-w-full object-cover" />
+          <Card className="w-full max-w-[800px] mb-8 overflow-hidden p-0 mb-12">
+            <Image src={article.heroImage || "/news/placeholder.jpg"} alt={article.title || "Article Hero"} width={800} height={350} className="w-full h-[350px] max-w-full object-cover" />
           </Card>
           <div className="flex flex-col items-center w-full">
             <div className="prose prose-lg text-left w-full max-w-[800px]">
               <div className="max-w-[600px] mx-auto">
                 <h1 className="font-bold text-3xl mb-4 text-center">{article.title}</h1>
-                <div className="mb-4 text-xs text-muted-foreground text-center">{new Date(article.date).toLocaleDateString()} • {article.author}</div>
+                <div className="mb-4 text-xs text-muted-foreground text-center mb-12">{new Date(article.date).toLocaleDateString()} • {article.author}</div>
               </div>
               {article.content.map((block, idx) => {
                 if (block.type === "section") {
@@ -41,13 +41,13 @@ export default function ArticlePage() {
                   return <div key={idx} className="max-w-[600px] mx-auto"><p className="mb-6">{block.value}</p></div>;
                 } else if (block.type === "code") {
                   return (
-                    <pre key={idx} className="mb-6 rounded-lg bg-zinc-900 text-white text-left overflow-x-auto p-4 text-sm w-full max-w-[800px] mx-auto">
+                    <pre key={idx} className="mb-12 rounded-lg bg-zinc-900 text-white text-left overflow-x-auto p-4 text-sm w-full max-w-[800px] mx-auto">
                       <code className={`language-${block.language || "js"}`}>{block.value}</code>
                     </pre>
                   );
                 } else {
                   return (
-                    <div key={idx} className="w-full max-w-[800px] mx-auto">
+                    <div key={idx} className="w-full max-w-[800px] mx-auto mb-12">
                       <Image
                         src={block.src || "/news/placeholder.jpg"}
                         alt={block.alt || ""}
